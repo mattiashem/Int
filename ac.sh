@@ -1,0 +1,9 @@
+export OS_PROJECT_DOMAIN_ID=default
+export OS_USER_DOMAIN_ID=default
+export OS_PROJECT_NAME=int
+export OS_TENANT_NAME=int_setup
+export OS_USERNAME=int_setup
+export OS_PASSWORD=
+export OS_AUTH_URL=http://10.100.0.220:35357/v3
+export OS_IDENTITY_API_VERSION=3
+export OS_IMAGE_API_VERSION=2
